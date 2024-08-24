@@ -16,6 +16,8 @@ Corners Detections - [Google Drives](https://drive.google.com/file/d/1WedHEte2CJ
 
 Info Extraction - [Google Drives](https://drive.google.com/file/d/1MWRUqOmGkMVFRcqfAQQ8PI7bF6pnPP1T/view?usp=sharing)
 
+** Related Repos **
+
 Info Translation (VietOCR): [VietOCR](https://github.com/pbcquoc/vietocr)
 
 Yolov5: [YOLOv5](https://github.com/ultralytics/yolov5)
