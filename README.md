@@ -12,9 +12,9 @@ The pipelines of the system are as follow:
 
 ** Pre-trained weights: **
 
-Corners Detections - [Google Drives](https://drive.google.com/file/d/1WedHEte2CJl2vWmc1zUALJjCJ6-HUJ5X/view?usp=sharing)
+Corners Detections - [Google Drives](https://drive.google.com/file/d/177W9_fa-UWGEBM6RTntRAkg8e2G9B0Cm/view?usp=sharing)
 
-Info Extraction - [Google Drives](https://drive.google.com/file/d/1MWRUqOmGkMVFRcqfAQQ8PI7bF6pnPP1T/view?usp=sharing)
+Info Extraction - [Google Drives](https://drive.google.com/file/d/1T_o5weyCM3CmY_2mHP2bYty6mCjlnN9A/view?usp=sharing)
 
 ** Related Repos **
 
